@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item android:title="ДОКУМЕНТ">
+            <menu>
+                <item
+                    android:id="@+id/nav_information"
+                    android:title="@string/menu_information" />
+                <item
+                    android:id="@+id/nav_repair"
+                    android:title="@string/menu_repair" />
+                <item
+                    android:id="@+id/nav_technical"
+                    android:title="@string/menu_technical" />
+                <item
+                    android:id="@+id/nav_torque"
+                    android:title="@string/menu_torque" />
+                <item
+                    android:id="@+id/nav_liquid"
+                    android:title="@string/menu_liquid" />
+                <item
+                    android:id="@+id/nav_description"
+                    android:title="@string/menu_description" />
+                <item
+                    android:id="@+id/nav_diagnostic"
+                    android:title="@string/menu_diagnostic" />
+                <item
+                    android:id="@+id/nav_facility"
+                    android:title="@string/menu_facility" />
+                <item
+                    android:id="@+id/nav_equipment"
+                    android:title="@string/menu_equipment" />
+            </menu>
+        </item>
+    </group>
+</menu>

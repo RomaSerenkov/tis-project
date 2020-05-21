@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TIS BMW</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TIS BMW</string>
+    <string name="nav_header_subtitle">Техническая и справочная информация по автомобилям BMW и Mini</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_close">Выход</string>
+    <string name="finish_app">Нажмите дважды для выхода из приложения</string>
+
+    <string name="main_description">Информационная база предназначена для ремонта и обслуживания автомобилей BMW до 2008 года выпуска.</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_information">Сервисная информация</string>
+    <string name="menu_repair">Руководство по ремонту</string>
+    <string name="menu_technical">Технические характеристики</string>
+    <string name="menu_torque">Моменты затяжки</string>v
+    <string name="menu_liquid">Рабочие жидкости</string>
+    <string name="menu_description">Описание систем</string>
+    <string name="menu_diagnostic">Диагостика и кодирование</string>
+    <string name="menu_facility">Специальные приборы</string>
+    <string name="menu_equipment">Специальные приспособления</string>
+    <string name="menu_problem">Проблема</string>
+    <string name="menu_system">Система автомобиля</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="models_title">Выберите модель</string>
+    <string name="title_activity_main">Главная</string>
+    <string name="title_activity_models">Модели</string>
+    <string name="models_name">Документ</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="category_name">Документ</string>
+    <string name="category_title">Выберите категорию</string>
+    <string name="title_activity_sub_category">SubCategoryActivity</string>
+    <string name="title_activity_next_sub_category">NextSubCategoryActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+
+</resources>
